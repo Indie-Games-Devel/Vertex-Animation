@@ -1,0 +1,10 @@
+/.vs/Vertex Animation/
+/Library/
+/Logs/
+/obj/Debug/
+/Packages/
+/ProjectSettings/
+/UserSettings/
+*.csproj
+*.sln
+/.vsconfig
